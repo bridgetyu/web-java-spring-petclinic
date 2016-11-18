@@ -3,7 +3,7 @@
 Spring PetClinic Sample Application
 
 # Developer Workspace
-[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=r6p0l1sfnwm99k94)
+[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=r6p0l1sfnwm99k94)  
 
 # Stack to use
 
